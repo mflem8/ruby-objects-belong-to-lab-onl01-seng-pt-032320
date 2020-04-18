@@ -2,6 +2,6 @@ class Post
 
   attr_accessor :title
 
-  @author = author
+  @title = title
 
 end
